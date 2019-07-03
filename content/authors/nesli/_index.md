@@ -1,38 +1,40 @@
 ---
 # Display name
-name: Kevin Wittek
+name: Neslihan Edes
 
 # Username (this should match the folder name)
 authors:
-- admin
+- nesli
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Blockchain Research Group Lead / Doctoral Researcher
+role: Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Institute for Internet-Security
-  url: "https://www.internet-sicherheit.de/"
+- name: Ruhr-University Bochum
+  url: "https://www.bio.psy.ruhr-uni-bochum.de/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like them computazz!
+bio: I like pigeonzzzz lol 
 
 interests:
-- Clean Code
-- Test Automation
-- Building bridges between the software and security community
+- Decision making under uncertainty
+- Avian cognition and behaviour
 
 education:
   courses:
-  - course: MSc in Computer Science
-    institution: Westfälische Hochschule
-    year: 2012
-  - course: BSc in Media Computer Science
-    institution: Fachhochschule Gelsenkirchen
-    year: 2009
+  - course: PhD student
+    institution: Department of Biopsychology, Ruhr-University Bochum
+    year: since 2018
+  - course: MSc in Environmental Sciences
+    institution: Bogazici University, Turkey
+    year: 2017
+  - course: BSc in Biology, 
+    institution: Istanbul University, Turkey
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,13 +46,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Kiview
+  link: https://twitter.com/neslihanedes
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/kiview
+  link: https://github.com/neslihanedes
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -58,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kevin.wittek@groovy-coder.com"
+email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -67,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Kevin Wittek is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+PhD student at the biopsychology department of the Ruhr University Bochum. Focusing on pigeons’ consciousness and self-recognition. While doing behavioural experiments, she also explores challenging analyzing methods and the field of data science. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+That is also one of the reasons why she is interested in open-source technology (especially Python) which helps her to not get lost in the thorny paths and thick forests of scientific computing that are ruled by gruesome beasts like Matlab.
