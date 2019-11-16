@@ -66,4 +66,4 @@ user_groups: []
 
 Testcontainers co-maintainer and Testcontainers-Spock author, in love with FLOSS. Received the Oracle Groundbreaker Ambassador award for his contributions to the Open Source community. Software Craftsman and testing fan. Plays the electric guitar and is a musician in his second life. Found his own company during his university years, developing mobile apps and client-server applications, which introduced him to Grails and the Groovy ecosystem. Fell in love with TDD because of Spock. 
 
-After many years working in the industry as an engineer, Kevin is now doing his PhD at the Institute for Internet Security and is leading a research team in the field of blockchain and DTL technology.
+After many years working in the industry as an engineer, Kevin is now doing his PhD at the Institute for Internet Security and is leading a research team in the field of blockchain and DLT technology.
