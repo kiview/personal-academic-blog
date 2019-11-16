@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nesli Article"
+title: "Nesli's Article"
 subtitle: ""
 summary: "My first post"
 authors: ["nesli"]
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-I have my own blog now together with my Kivi bird, yaaaaay \o/
+I now have my own blog together with my Kivi bird, yaaaaay \o/
