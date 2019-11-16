@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Blockchain Research Group Lead / Doctoral Researcher
+role: Head of Blockchain Research Lab / Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Institute for Internet-Security
+- name: Institute for Internet Security
   url: "https://www.internet-sicherheit.de/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,15 +23,17 @@ bio: I like them computazz!
 interests:
 - Clean Code
 - Test Automation
+- FLOSS & Open Science
+- Distributed trust properties in blockchain and DLT based systems
 - Building bridges between the software and security community
 
 education:
   courses:
   - course: MSc in Computer Science
-    institution: Westfälische Hochschule
+    institution: Westphalian University of Applied Sciences
     year: 2012
   - course: BSc in Media Computer Science
-    institution: Fachhochschule Gelsenkirchen
+    institution: University of Applied Sciences Gelsenkirchen
     year: 2009
 
 # Social/Academic Networking
@@ -41,13 +43,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kevin.wittek@gmx.net'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Kiview
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/kiview
@@ -62,11 +61,9 @@ email: "kevin.wittek@groovy-coder.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
-Kevin Wittek is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Testcontainers co-maintainer and Testcontainers-Spock author, in love with FLOSS. Received the Oracle Groundbreaker Ambassador award for his contributions to the Open Source community. Software Craftsman and testing fan. Plays the electric guitar and is a musician in his second life. Found his own company during his university years, developing mobile apps and client-server applications, which introduced him to Grails and the Groovy ecosystem. Fell in love with TDD because of Spock. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+After many years working in the industry as an engineer, Kevin is now doing his PhD at the Institute for Internet Security and is leading a research team in the field of blockchain and DTL technology.

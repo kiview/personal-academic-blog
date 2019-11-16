@@ -50,9 +50,6 @@ social:
 - icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0002-6282-6209
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Neslihan_Edes
