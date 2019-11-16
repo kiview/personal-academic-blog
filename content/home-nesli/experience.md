@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   date_start = "2010-03-01"
   date_end = "2013-01-01"
   description = """
-  Maybe something with computers.
+  IT support.
   """
 
 +++
