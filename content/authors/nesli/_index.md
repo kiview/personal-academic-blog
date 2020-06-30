@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Neslihan Edes
+name: Neslihan Wittek
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.bio.psy.ruhr-uni-bochum.de/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like pigeonzzzz lol 
+bio:  PhD student in Biopsychology, trying to explore the secrets of animals, working with pigeons
 
 interests:
 - Decision making under uncertainty
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:Neslihan.Edes@ruhr-uni-bochum.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:Neslihan.Wittek@ruhr-uni-bochum.de"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/neslihanedes
