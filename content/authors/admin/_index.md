@@ -10,15 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of Blockchain Research Lab / Doctoral Researcher
+role: Head of Blockchain Research Lab / Doctoral Researcher / Testcontainers Maintainer
 
 # Organizations/Affiliations
 organizations:
 - name: Institute for Internet Security
   url: "https://www.internet-sicherheit.de/"
+- name: Testcontainers
+  url: "https://testcontainers.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like them computazz!
+bio: I like computers 🙂
 
 interests:
 - Clean Code
@@ -64,6 +66,11 @@ email: "kevin.wittek@groovy-coder.com"
 user_groups: []
 ---
 
-Testcontainers co-maintainer and Testcontainers-Spock author, in love with FLOSS. Received the Oracle Groundbreaker Ambassador award for his contributions to the Open Source community. Software Craftsman and testing fan. Plays the electric guitar and is a musician in his second life. Found his own company during his university years, developing mobile apps and client-server applications, which introduced him to Grails and the Groovy ecosystem. Fell in love with TDD because of Spock. 
+Hi, my name is Kevin. I am a big OSS enthusiast, Testcontainers core-maintainer, Oracle Groundbreaker Ambassador and currently pursuing my PhD in computer science in the field of distributed systems engineering (more specifically Smart Contract security and verification in Blockchain networks).
+Besides enjoying to work on technical tasks and contributing to OSS, I also love to teach and mentor people and to interact with the community as a whole.
+Therefore I became an active conference speaker some years ago and especially like to give talks at JUGs and meetups, or to participate in more interactive formats, such as hackergarten.
+When I'm not doing tech or science stuff, I like to play make music and play guitar in one of my bands, such as [Iron Kobra](https://ironkobra.de/).
 
-After many years working in the industry as an engineer, Kevin is now doing his PhD at the Institute for Internet Security and is leading a research team in the field of blockchain and DLT technology.
+Apart from my involvement with the Java community, I started to collaborate with my [wife](/home-nesli) on tasks related to her research and PhD work, such as data analysis in behavioural science and, more recently, animal tracking using neuronal networks and low latency video streaming.
+
+If you like what I'm doing, please consider supporting me on [GitHub Sponsors](https://github.com/sponsors/kiview) 🥰.
