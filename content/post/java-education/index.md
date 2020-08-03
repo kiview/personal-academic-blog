@@ -62,9 +62,14 @@ I think [repl.it](https://repl.it/) with Java support is a somewhat nicer starti
 ## Learning to Code
 
 With Python, you have zero ceremonies to get started. 
-Just write a script, print “hello world”, that's it. 
+Just write a script, print “Hello World”, that's it. 
+
+```python
+print("Hello World")
+```
+
 In Java you need to have a class with a main method, printing has a complicated signature involving the System package, etc..
-I know it feels stupid to compare languages based on their "Hello World" abilities, but shis is a high conceptual hurdle. 
+I know it feels stupid to compare languages based on their "Hello World" abilities, but this is a high conceptual hurdle. 
 When we started with Java at university, our professor just told us to ignore this ceremony in the beginning and start writing things in the body of the main method. 
 This solves it for students, but it is a less than ideal approach for general beginners, curious in learning programming. [JEP 330](https://openjdk.java.net/jeps/330) for launching single-file source-code programs seems like a step in the right direction though. 
 However, [Apache Groovy](https://groovy-lang.org/) can actually help with this problem even better and ticks most of the boxes in this regard. 
