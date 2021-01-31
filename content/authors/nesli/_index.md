@@ -32,7 +32,7 @@ education:
   - course: MSc in Environmental Sciences
     institution: Bogazici University, Turkey
     year: 2017
-  - course: BSc in Biology, 
+  - course: BSc in Biology 
     institution: Istanbul University, Turkey
     year: 2008
 
