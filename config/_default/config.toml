@@ -16,10 +16,10 @@ baseurl = "/"
 copyright = "&copy; {year} Kevin Wittek, Neslihan Wittek. All Rights Reserved"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-152715725-1"
+#googleAnalytics = "UA-152715725-1"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "wittek-dev"
+#disqusShortname = "wittek-dev"
 
 ############################
 ## Advanced options below ##
